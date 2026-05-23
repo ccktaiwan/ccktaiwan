@@ -3,10 +3,10 @@ Prospera-ID: prospera-sovereignty-portal
 Governance-Category: CORE
 Layer-Position: "L1 (Conceptual Layer - Global Entry Point)"
 Human-Authorizing-Engineer: "ccktaiwan (MND-Authority)"
-AI-Engineering-Worker: "Google AI Studio (Gemini 1.5 Pro) [Clerical-Expansion-Only]"
+AI-Engineering-Worker: "Claude Code (claude-sonnet-4-6) [Clerical-Expansion-Only]"
 Inventorship-Status: "Human-Exclusive (MND-L1-PROTECTED)"
 SSOT-Ref: REPO_MASTER_INDEX.json
-Last-Audit: 2026-03-24
+Last-Audit: 2026-05-24
 Status: "OPERATIONAL / SOVEREIGNTY_LOCKED"
 Total-Managed-Repos: 37
 ---
@@ -33,8 +33,8 @@ organized into five functional layers of authority:
 ### 🔴 LAYER 1-2: THE CONSTITUTIONAL CORE (P0)
 *Authoritative root for logic, design, and identity.*
 - `Prospera-Governance-Core`: The Law.
-- `prospera-os`: The Execution Kernel.
-- `prospera-os-system-design`: The Topology Mother.
+- `prospera-os`: The Execution Kernel (MCP Server + L4 Gateway).
+- `prospera-identity-authority`: The Identity & Authority Gate (L4).
 - `prospera-engineering-codex`: The Workflow Standard.
 
 ### 🟡 LAYER 3: INFRASTRUCTURE & ENFORCEMENT (P1)
@@ -76,4 +76,4 @@ organized into five functional layers of authority:
 - **SSOT ALIGNMENT**: 100% (37/37 Repositories Formally Locked)
 
 ---
-*Authorized by ccktaiwan (MND-L1 Authority) | 2026-03-24*
+*Authorized by ccktaiwan (MND-L1 Authority) | 2026-05-24*
