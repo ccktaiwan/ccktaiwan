@@ -1,79 +1,45 @@
----
-Prospera-ID: prospera-sovereignty-portal
-Governance-Category: CORE
-Layer-Position: "L1 (Conceptual Layer - Global Entry Point)"
-Human-Authorizing-Engineer: "ccktaiwan (MND-Authority)"
-AI-Engineering-Worker: "Claude Code (claude-sonnet-4-6) [Clerical-Expansion-Only]"
-Inventorship-Status: "Human-Exclusive (MND-L1-PROTECTED)"
-SSOT-Ref: REPO_MASTER_INDEX.json
-Last-Audit: 2026-05-24
-Status: "OPERATIONAL / SOVEREIGNTY_LOCKED"
-Total-Managed-Repos: 41
----
+# Prospera OS — AI-Governed Business Operating System
 
-# 🏛️ Prospera OS Global Sovereignty Portal
-
-## 1. MISSION DECLARATION (主權宣言)
-
-This portal constitutes the authoritative entry point to the **Prospera OS Ecosystem**. 
-Prospera is a governance-first enterprise execution system designed to transform 
-human intent into deterministic, auditable, and monetizable AI-assisted 
-engineering workflows.
-
-All activities within this organization are strictly governed by the 
-**Prospera Engineering Law** and the **MND-L1 Global Constitution**.
-
-====================================================================
-
-## 2. REPOSITORY TOPOLOGY (系統拓樸)
-
-The Prospera ecosystem comprises **41 synchronized repositories**, 
-organized into five functional layers of authority:
-
-### 🔴 LAYER 1-2: THE CONSTITUTIONAL CORE (P0)
-*Authoritative root for logic, design, and identity.*
-- `Prospera-Governance-Core`: The Law.
-- `prospera-os`: The Execution Kernel (MCP Server + L4 Gateway).
-- `prospera-identity-authority`: The Identity & Authority Gate (L4).
-- `prospera-engineering-codex`: The Workflow Standard.
-
-### 🟡 LAYER 3: INFRASTRUCTURE & ENFORCEMENT (P1)
-*Physical interception, audit evidence, and global registration.*
-- `prospera-global-inventory`: The Single Source of Truth (SSOT).
-- `prospera-audit-ledger`: The Immutable Evidence Chain.
-- `prospera-api-gateway`: The Border Guardian.
-- `prospera-ci-shared`: The Digital Enforcement Officer.
-
-### 🔵 LAYER 4: EXECUTION ENGINES (P1/P2)
-*Deterministic runtimes and cognitive compilation.*
-- `prospera-exam-platform`: Business Validation Core.
-- `Prospera-Workflow-Engine`: Mission Orchestration.
-- `prospera-generation-layer`: Cognitive Compiler.
-- `bidirectional-generative-engine`: Alignment Bridge.
-
-### 🟢 LAYER 5: APPLICATION & VERTICALS (P2/P3)
-*Client-facing frameworks and specialized diagnostic tools.*
-- `prospera-brand-engineering-framework`: SME Growth Logic.
-- `prospera-esg-validator`: Carbon Tokenization Engine.
-- `client-repo-template`: Sovereignty Export Interface.
-
-====================================================================
-
-## 3. GOVERNANCE INVARIANTS (核心不變量)
-
-- **I-01 [HUMAN_PRIMACY]**: AI Workers act solely as clerical agents. 
-  Inventive authority remains Human-Exclusive.
-- **I-02 [ZERO_BYPASS]**: No execution SHALL occur without a 
-  valid Governance Signature (GSIG).
-- **I-03 [DETERMINISTIC_AUDIT]**: Every state transition MUST be 
-  traceable to the Global Audit Ledger.
-
-====================================================================
-
-## 4. SYSTEM STATUS
-- **OPERATIONAL STATE**: ✅ ACTIVE
-- **GOVERNANCE MATURITY**: Phase 6 (Validation & Evolution)
-- **SSOT ALIGNMENT**: 100% (41/41 Repositories Formally Locked)
+**Authority**: Kevin Chang (ccktaiwan)
+**System**: 22-repo ecosystem · 7-layer governance network
+**Version**: v2.0 · 2026
 
 ---
-*Authorized by ccktaiwan (MND-L1 Authority) | 2026-05-24*
+
+## What is Prospera OS?
+
+Prospera OS is a governance-first AI business operating system that enforces
+a non-overridable governance kernel to determine what actions — including
+AI-assisted generation and human execution — may be permitted, blocked, or escalated.
+
+Built for SMBs who want AI to work *for* them, not *around* them.
+
+---
+
+## Ecosystem Architecture
+
+| Ring | Layer | Purpose |
+|------|-------|---------|
+| Ring 0 | Nucleus | prospera-os — single entry point |
+| Ring 1 | Constitution | Governance rules, identity, kernel codex |
+| Ring 2 | Standards | Engineering standards, compliance, IP, audit |
+| Ring 3 | Blueprints | Brand framework, ESG, IP design |
+| Ring 4 | Engines | Workflow, generation, ontology, API, registry |
+| Ring 5 | Products | Exam platform, governance dashboard, client templates |
+| Ring 6 | Infrastructure | CI/CD, monitoring, compliance registry |
+
+---
+
+## Governance Principles
+
+- Every repo has exactly ONE purpose with defined Input → Output
+- All AI sessions start from prospera-os
+- Claude Code executes. ccktaiwan judges.
+- Enforcement via CI, not documentation
+- Self-healing: violations auto-detected and auto-remediated
+
+---
+
+## Entry Point
+
+Start here: [prospera-os](https://github.com/ccktaiwan/prospera-os)
