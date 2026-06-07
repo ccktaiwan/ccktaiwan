@@ -2,7 +2,7 @@
 
 **Authority**: ccktaiwan
 **Schema**: prospera-os/DIRECTORY_SCHEMA.json
-**Skills**: prospera-ci-shared/skills/SKILL-CORE.md
+**Skills**: prospera-infra-ci/skills/SKILL-CORE.md
 **Canonical source**: system_index.yaml v3.0
 
 ---
